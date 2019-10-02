@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /online
+Disallow: /login

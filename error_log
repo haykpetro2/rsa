@@ -1,0 +1,5 @@
+[01-Aug-2017 22:00:16 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///usr/local/bin/composer/vendor/symfony/console/Application.php on line 954
+[01-Aug-2017 22:04:12 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///usr/local/bin/composer/vendor/symfony/console/Application.php on line 954
+[01-Aug-2017 22:06:46 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///usr/local/bin/composer/vendor/symfony/console/Application.php on line 954
+[15-Nov-2017 10:43:04 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///usr/local/bin/composer/vendor/symfony/console/Application.php on line 954
+[15-Nov-2017 10:51:48 UTC] PHP Warning:  proc_open(): fork failed - Cannot allocate memory in phar:///usr/local/bin/composer/vendor/symfony/console/Application.php on line 954

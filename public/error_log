@@ -1,0 +1,2 @@
+[15-May-2017 19:55:35 UTC] PHP Fatal error:  Class 'Telegram\Bot\Laravel\TelegramServiceProvider' not found in /home/halkins/halk-insurance.ru/laravel/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 146
+[03-May-2018 14:41:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 196605 bytes) in /home/halkins/halk-insurance.ru/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 335
